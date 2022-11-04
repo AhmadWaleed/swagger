@@ -1,4 +1,0 @@
-# VSS
-
-- [autocomplete]()
-- [filters]()
