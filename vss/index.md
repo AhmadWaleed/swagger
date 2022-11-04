@@ -1,3 +1,3 @@
 # vss
 
-- [autocomplete.html](https://github.com/AhmadWaleed/swagger/blob/master/vss/autocomplete.html)
+- [autocomplete](https://ahmadwaleed.github.io/vss/autocomplete.html)
